@@ -50,5 +50,3 @@ Projeto de uma tela de login construído durante o evento do Ignite Lab, da Rock
 ## ✉️ Contato
 
 Entre em contato via e-mail: borges.gustavo@estudante.ifro.edu.br
-
-<!-- 📁🪚 -->
